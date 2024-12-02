@@ -12,7 +12,7 @@ A simple, interactive Tic-Tac-Toe game built with ReactJS that demonstrates the 
 
 This project is inspired by the course [
 React - The Complete Guide 2024 (incl. Next.js, Redux)
-](https://www.udemy.com/course/the-web-developer-bootcamp/) by [Maximilian Schwarzmüller](https://udemy.com/course/react-the-complete-guide-incl-redux/).
+](https://udemy.com/course/react-the-complete-guide-incl-redux/) by Maximilian Schwarzmüller
 
 ### React + Vite
 
